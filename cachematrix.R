@@ -1,5 +1,5 @@
 ###############################################################################
-##################### Assignment 2 Week 3 Functions #############################
+################## Assignment 2 Week 3 Functions by Pipe-Mejia ################
 ###############################################################################
 
 # IMPORTANT !!! The following makeCacheMatrix function builds on the makeVector
